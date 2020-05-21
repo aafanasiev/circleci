@@ -1,0 +1,6 @@
+framework module Pods_circlecitemplate {
+  umbrella header "Pods-circlecitemplate-umbrella.h"
+
+  export *
+  module * { export * }
+}

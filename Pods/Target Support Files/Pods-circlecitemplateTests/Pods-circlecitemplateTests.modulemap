@@ -1,0 +1,6 @@
+framework module Pods_circlecitemplateTests {
+  umbrella header "Pods-circlecitemplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
